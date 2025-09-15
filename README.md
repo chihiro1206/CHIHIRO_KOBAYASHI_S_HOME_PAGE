@@ -1,0 +1,2 @@
+# CHIHIRO-KOBAYASHI-S-HOME-PAGE
+自分のホームページを作ってみたい
